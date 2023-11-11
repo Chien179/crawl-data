@@ -1,3 +1,6 @@
 *.csv
 .venv
+venv
 .env
+data*
+corpora
